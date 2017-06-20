@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="glumci">
+        <item>Nikola Kojo</item>
+        <item>Vuk Kostic</item>
+    </string-array>
+</resources>
